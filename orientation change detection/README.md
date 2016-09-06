@@ -1,0 +1,1 @@
+Detecting camera orientation change.  This is a vital piece of object tracking, when the camera orientation is changing.
